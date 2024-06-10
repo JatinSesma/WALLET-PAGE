@@ -243,7 +243,9 @@
     cursor: pointer;
 }
 
-
+.pt-34{
+    padding-top: 34px;
+}
 
 .edit {
     height: 43px;
