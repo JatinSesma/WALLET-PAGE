@@ -2,3 +2,6 @@
     /* color */
     --bg-white:#F8F8F8;
 }
+.bg-white{
+    color: var(--bg-white);
+}
